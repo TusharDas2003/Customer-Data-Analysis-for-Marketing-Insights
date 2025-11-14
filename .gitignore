@@ -1,0 +1,18 @@
+__pycache__/
+.ipynb_checkpoints/
+# Model and serialized objects
+*.joblib
+*.pkl
+*.pickle
+
+# Ignore common environment files
+venv/
+env/
+ENV/
+/.venv
+
+# macOS
+.DS_Store
+
+# Logfiles
+.log
